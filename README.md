@@ -1,6 +1,6 @@
 # Grupo Aggle
 
-## Lista dos 14 artefatos  
+## Lista dos 24 artefatos  
 
 Integrantes:
 Ana Carolina Felicio  - RA: 1900281  
